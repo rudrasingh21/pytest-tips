@@ -1,0 +1,21 @@
+(.venv) @rudrasingh21 ➜ /workspaces/pytest-tips (main) $ history
+    1  which virtualenv
+    2  virtualenv --help
+    3  virtualenv ~/.venv
+    4  source ~/.venv/bin/activate
+    5  history
+    6  which python
+
+    8  vim ~/.bashrc
+    9  history
+
+
+
+edit  this --> vim ~/.bashrc
+insert to set up virtual env when you open new terminal in proj
+
+#sourcevirtual env
+source ~/.venv/bin/activate
+
+
+pytest --help
